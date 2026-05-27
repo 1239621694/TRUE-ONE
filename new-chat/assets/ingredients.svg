@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 520" role="img" aria-labelledby="title desc">
+  <title id="title">Mexican skincare ingredients</title>
+  <desc id="desc">Botanical ingredients including cactus, agave, cacao and marigold arranged as a clean product ingredient visual.</desc>
+  <rect x="22" y="22" width="636" height="476" rx="28" fill="#fffaf0" stroke="#17211d" stroke-opacity=".12" stroke-width="4"/>
+  <circle cx="518" cy="138" r="78" fill="#e6a83f" opacity=".28"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M163 419c39-78 50-160 22-245 76 44 115 119 113 228" stroke="#1f6f5b" stroke-width="30"/>
+    <path d="M121 330c14-72 54-124 117-154-1 90-28 156-80 203" stroke="#7e9b79" stroke-width="24"/>
+    <path d="M311 382c-10-72 8-137 54-196 38 78 37 147-2 208" stroke="#7e9b79" stroke-width="24"/>
+  </g>
+  <g>
+    <path d="M418 206c67 24 111 73 132 147-81-8-139-43-174-105Z" fill="#1f6f5b" opacity=".86"/>
+    <path d="M451 236c42 25 70 60 84 106" fill="none" stroke="#fffaf0" stroke-width="7" stroke-linecap="round"/>
+    <path d="M501 230c53 6 94 31 123 76-60 15-109 6-149-28Z" fill="#7e9b79" opacity=".9"/>
+  </g>
+  <g>
+    <ellipse cx="468" cy="390" rx="62" ry="38" fill="#5a3728"/>
+    <ellipse cx="468" cy="386" rx="38" ry="21" fill="#7b4b37"/>
+    <path d="M435 382c18 15 42 16 66 1" fill="none" stroke="#f6ead7" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g fill="#e6a83f">
+    <circle cx="560" cy="397" r="18"/>
+    <circle cx="586" cy="372" r="15"/>
+    <circle cx="609" cy="406" r="12"/>
+    <circle cx="542" cy="359" r="10"/>
+  </g>
+  <g fill="#c7653a" opacity=".84">
+    <circle cx="112" cy="126" r="15"/>
+    <circle cx="145" cy="101" r="10"/>
+    <circle cx="174" cy="128" r="13"/>
+  </g>
+</svg>

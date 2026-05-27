@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 760" role="img" aria-labelledby="title desc">
+  <title id="title">TRUE ONE skincare products</title>
+  <desc id="desc">A composed product scene with bottles, cream jar, cactus, agave leaves, cacao and marigold accents.</desc>
+  <defs>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3c762"/>
+      <stop offset="1" stop-color="#c7653a"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffdf4"/>
+      <stop offset=".58" stop-color="#efe4c5"/>
+      <stop offset="1" stop-color="#d7c7a0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#17211d" flood-opacity=".24"/>
+    </filter>
+  </defs>
+  <rect x="58" y="54" width="644" height="644" rx="322" fill="#f6ead7"/>
+  <circle cx="552" cy="186" r="72" fill="url(#sun)" opacity=".9"/>
+  <path d="M135 552c70-84 95-176 63-272 88 49 134 134 137 255" fill="none" stroke="#1f6f5b" stroke-width="34" stroke-linecap="round"/>
+  <path d="M625 544c-44-96-49-186-15-270-85 50-132 133-139 251" fill="none" stroke="#7e9b79" stroke-width="32" stroke-linecap="round"/>
+  <path d="M113 433c19-83 63-139 132-169-4 100-36 173-95 219" fill="#7e9b79" opacity=".72"/>
+  <path d="M648 431c-22-86-69-143-141-171 9 103 45 176 107 220" fill="#1f6f5b" opacity=".72"/>
+  <g filter="url(#shadow)">
+    <path d="M293 238h126c14 0 25 11 25 25v330c0 24-20 44-44 44h-88c-24 0-44-20-44-44V263c0-14 11-25 25-25Z" fill="url(#glass)" stroke="#17211d" stroke-opacity=".18" stroke-width="4"/>
+    <path d="M315 186h82v54h-82z" fill="#203b31"/>
+    <path d="M306 348h102c12 0 22 10 22 22v112H284V370c0-12 10-22 22-22Z" fill="#1f6f5b"/>
+    <text x="356" y="407" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#fff">N</text>
+    <text x="356" y="448" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">NOPALURA</text>
+  </g>
+  <g filter="url(#shadow)">
+    <path d="M468 304h79c13 0 24 11 24 24v246c0 23-19 42-42 42h-43c-23 0-42-19-42-42V328c0-13 11-24 24-24Z" fill="#fffaf0" stroke="#17211d" stroke-opacity=".16" stroke-width="4"/>
+    <path d="M482 250h52c12 0 22 10 22 22v35h-96v-35c0-12 10-22 22-22Z" fill="#c7653a"/>
+    <rect x="463" y="420" width="89" height="72" rx="24" fill="#e6a83f"/>
+  </g>
+  <g filter="url(#shadow)">
+    <ellipse cx="241" cy="601" rx="112" ry="48" fill="#5a3728"/>
+    <path d="M139 534h204v66c0 31-46 56-102 56s-102-25-102-56v-66Z" fill="#fffdf4" stroke="#17211d" stroke-opacity=".15" stroke-width="4"/>
+    <ellipse cx="241" cy="535" rx="102" ry="49" fill="#efe4c5" stroke="#17211d" stroke-opacity=".15" stroke-width="4"/>
+    <ellipse cx="241" cy="531" rx="64" ry="25" fill="#5a3728" opacity=".9"/>
+  </g>
+  <g fill="#e6a83f">
+    <circle cx="589" cy="607" r="17"/>
+    <circle cx="620" cy="575" r="13"/>
+    <circle cx="151" cy="621" r="13"/>
+  </g>
+</svg>
